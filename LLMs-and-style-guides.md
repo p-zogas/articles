@@ -1,6 +1,6 @@
 # Why LLMs have trouble with style guides and what to do about it
 
-In 2019 I wrote [Guide to content strategy](https://www.designsystems.com/guide-to-content-strategy-in-design-systems/ "Guide to content strategy") for Figma's [DesignSystems.com](https://www.designsystems.com/ "DesignSystems.com"). My goal was to given content designers some clear first steps for incorporating language guidance into design system components in order to make it easier to scale their work.
+In 2019 I wrote [Guide to content strategy](https://www.designsystems.com/guide-to-content-strategy-in-design-systems/ "Guide to content strategy") for Figma's [DesignSystems.com](https://www.designsystems.com/ "DesignSystems.com"). My goal was to give content designers some clear first steps for incorporating language guidance into design system components in order to make it easier to scale their work.
 
 Now, at the beginning of 2026, design teams are working even closer to code and racing to get their design system components hooked into Figma, v0, Cursor, or whatever else they're using. They're after high quality protoypes and fast iteration cycles, along with the ability to reduce time-to-production by increasing automation. For content designers, it seems like a similar transition should be easier. LLMs are made of language, and all of the artifacts for content standards and goverance are language. Should be pretty easy to just point some models at your style guides, glossaries, and brand guidelines and expect solid outcomes, right?
 
