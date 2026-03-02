@@ -1,4 +1,8 @@
-# Why LLMs have trouble with style guides and what to do about it
+# DRAFT 
+
+This is a work-in-progress that I'm actively writing as of 3/2/2026.
+
+## Why LLMs have trouble with style guides and what to do about it
 
 In 2019 I wrote [Guide to content strategy](https://www.designsystems.com/guide-to-content-strategy-in-design-systems/ "Guide to content strategy") for Figma's [DesignSystems.com](https://www.designsystems.com/ "DesignSystems.com"). My goal was to give content designers some clear first steps for incorporating language guidance into design system components in order to make it easier to scale their work.
 
